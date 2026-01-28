@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11415.280 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighRpsMinimalApi", "HighRpsMinimalApi.csproj", "{2F604212-5245-D852-BDCF-28DC69563067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F604212-5245-D852-BDCF-28DC69563067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F604212-5245-D852-BDCF-28DC69563067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F604212-5245-D852-BDCF-28DC69563067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F604212-5245-D852-BDCF-28DC69563067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3817082-68E1-4316-B539-A33B75B6E414}
+	EndGlobalSection
+EndGlobal
